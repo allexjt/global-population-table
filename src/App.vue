@@ -9,10 +9,10 @@
 </template>
 
 <script>
-import Header from './components/Header'
-import Dropdown from './components/Dropdown'
-import BarChart from './components/BarChart'
-import Footer from './components/Footer'
+import Header from './components/Header.vue'
+import Dropdown from './components/Dropdown.vue'
+import BarChart from './components/BarChart.vue'
+import Footer from './components/Footer.vue'
 
 export default {
   name: 'App',
